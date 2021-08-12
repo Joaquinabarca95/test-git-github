@@ -1,0 +1,20 @@
+# crear un repositorio git
+
+	$ git init
+
+# ver el estado de un proyecto o repositorio git
+	
+	$ git status
+
+# preparar archivos en repositorio git (stage)
+
+	$ git add <file>
+	$ git add . --> agrega todo lo que esta en ese directorio en adelante
+	$ git add -A --> agrega todo partiendo desde el comienzo del proyecto hasta el ultimo directorio que tenga
+	$ git add * --> permite hacer especificaciones para ver lo que quiero agregar. Ej git add *.doc agrega todos los archivos con extension .doc
+											Ej git add *test*.js agrega todos los archivos js que tengan el nombre test en el
+
+# guardar los archivos en el repositorio (local)
+
+	$ git commit -m "Mensaje"
+	$ git commit
