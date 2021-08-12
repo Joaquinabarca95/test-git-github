@@ -39,3 +39,7 @@
 # unir ramas en el repositorio git
 
 	$ git merge <branch> <branch>
+
+# ver listado de commits
+	
+	$ git log
