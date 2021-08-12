@@ -18,3 +18,12 @@
 
 	$ git commit -m "Mensaje"
 	$ git commit
+
+# restaurar o eliminar cambios hechos dentro del respositorio
+
+	$ git restore <file>
+	$ git checkout <file> --> puede incluir una ruta
+
+# crear ramas o branch dentro del repositorio git
+
+	$ git branch <name>
