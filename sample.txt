@@ -27,3 +27,11 @@
 # crear ramas o branch dentro del repositorio git
 
 	$ git branch <name>
+
+# cambiar de rama o branch
+
+	$ git checkout <name branch>
+
+# ver diferencia entre los archivos
+
+	$ git diff
