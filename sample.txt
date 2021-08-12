@@ -35,3 +35,7 @@
 # ver diferencia entre los archivos
 
 	$ git diff
+
+# unir ramas en el repositorio git
+
+	$ git merge <branch> <branch>
